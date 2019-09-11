@@ -1,0 +1,9 @@
+.heroes .text{
+  position: relative;
+  top:-3px;
+}
+.heroes .badge{
+  display:inline-block;
+  font-size: small;
+  color:darkred;
+}
